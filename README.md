@@ -3,7 +3,9 @@
 
 <img width="1369" height="425" alt="V1nikPreviewBanner" src="https://github.com/user-attachments/assets/2e724b50-d934-40fd-b623-da1e9dbd3302" />
 
-#### I'm a developer. I code in Python, am currently learning C++, and working on my own project for CS2 called FluxWare.
+
+#### learning C++
+<!-- #### I'm a developer. I code in Python, am currently learning C++, and working on my own project for CS2 called FluxWare.
 
 
 
